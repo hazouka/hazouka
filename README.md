@@ -1,4 +1,4 @@
-<img align="left" height="250" src="https://media.giphy.com/media/jlzC4qwMPj25G/giphy.gif"  />
+<img align="center" height="250" src="https://media.giphy.com/media/jlzC4qwMPj25G/giphy.gif"  />
 
 # 💫 About Me:
 👋 Hi, I’m @hazouka<br> Currently Learning Html/C++ <br>
